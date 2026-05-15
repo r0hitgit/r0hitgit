@@ -88,11 +88,17 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=r0hitgit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r0hitgit&theme=tokyonight)](https://github.com/r0hitgit)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r0hitgit&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r0hitgit&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r0hitgit&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=r0hitgit&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r0hitgit&theme=tokyonight&utcOffset=5.5" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r0hitgit&theme=tokyonight&hide_border=true)
 
@@ -102,9 +108,22 @@
 
 ## 📚 DSA Progress
 
+-## 📚 Data Structures & Algorithms
+
+<img align="right" alt="DSA" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
 - 💡 Solving DSA problems daily in **Java**
-- 🎯 Focus: Arrays, Strings, Recursion, Trees, DP
-- 🏆 Target: **300+ problems** before internship season
+- 🎯 **Focus Areas:**
+  - Arrays & Strings
+  - Recursion & Backtracking
+  - Trees & Graphs
+  - Dynamic Programming
+  - Sorting & Searching
+- 📝 Practicing on **LeetCode** & **GeeksforGeeks**
+- 🧠 Goal: **300+ problems** before internship season
+- 🏆 Building **strong problem-solving foundation**
+
+<br clear="right"/>
 
 ---
 
