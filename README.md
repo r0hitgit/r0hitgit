@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hi%20👋%20I'm%20Rohit%20Verma&fontSize=40&fontColor=e94560&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Java%20%2B%20Spring%20Boot%20%2B%20React&descAlignY=55&descSize=18&descColor=a8b2d8" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A78BFA,100:EC4899&height=200&section=header&text=Hi%20👋%20I'm%20Rohit%20Verma&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Java%20%2B%20Spring%20Boot%20%2B%20React&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
@@ -9,11 +9,13 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=r0hitgit&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/r0hitgit?color=e94560&style=for-the-badge&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/r0hitgit?color=e94560&style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=r0hitgit&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/r0hitgit?color=EC4899&style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/r0hitgit?color=A78BFA&style=for-the-badge&logo=github)
 
 </div>
+
+---
 
 ---
 
