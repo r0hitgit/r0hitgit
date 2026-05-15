@@ -4,6 +4,10 @@
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=e94560&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%2B+React+Builder;Built+NexHire+%E2%80%94+Live+at+nexhire.me;Open+to+SDE+Internships+%F0%9F%99%8C" alt="Typing SVG" />
+</div>
+
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=r0hitgit&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/r0hitgit?color=e94560&style=for-the-badge&logo=github)
