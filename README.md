@@ -93,8 +93,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r0hitgit&theme=tokyonight)](https://github.com/r0hitgit)
