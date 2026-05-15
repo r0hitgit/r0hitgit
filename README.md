@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech CSE (AIML) '27 @ **NIET, AKTU**
+- 🎓 B.Tech CSE (AIML) '27 @ **NIET**
 - 🚀 Built & deployed **[NexHire](https://nexhire.me)** — a production-ready full-stack job portal (live!)
 - 💼 Actively looking for **SDE Internship opportunities**
 - 🌱 Currently sharpening **DSA in Java** + exploring **System Design**
