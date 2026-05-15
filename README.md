@@ -32,6 +32,11 @@
 
 ## 🛠 Tech Stack
 
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,vite,mysql,docker,git,github,html,css,js,postman,vscode&perline=7" />
+</div>
+
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
