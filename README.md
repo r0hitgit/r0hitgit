@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A78BFA,100:EC4899&height=200&section=header&text=Hi%20👋%20I'm%20Rohit%20Verma&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Java%20%2B%20Spring%20Boot%20%2B%20React&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A78BFA,100:EC4899&height=200&section=header&text=Hi%20%20I'm%20Rohit%20Verma&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Java%20%2B%20Spring%20Boot%20%2B%20React&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
@@ -121,5 +121,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:A78BFA,100:8B5CF6&height=100&section=footer" width="100%"/>
 </div>
