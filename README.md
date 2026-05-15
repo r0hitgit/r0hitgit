@@ -113,7 +113,7 @@
 
 ## 📚 Data Structures & Algorithms
 
-<img align="right" alt="DSA" width="280" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif"/>- 💡 Solving DSA problems daily in **Java**
+<img align="right" alt="DSA" width="280" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>💡 Solving DSA problems daily in **Java**
 - 🎯 **Focus Areas:**
   - Arrays & Strings
   - Recursion & Backtracking
