@@ -26,7 +26,7 @@
 - 💼 Actively looking for **SDE Internship opportunities**
 - 🌱 Currently sharpening **DSA in Java** + exploring **System Design**
 - 🛠 I build end-to-end — backend APIs, frontend UI, and full deployment pipelines
-- ⚡ Fun fact: I debug production issues at 2AM and call it fun
+- ⚡ Fun fact: When I start building, the world disappears — I don't stop until it works.
 
 ---
 
