@@ -19,18 +19,18 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 B.Tech CSE (AIML) '27 @ **NIET**
-- 🚀 Built & deployed **[NexHire](https://nexhire.me)** — a production-ready full-stack job portal (live!)
-- 💼 Actively looking for **SDE Internship opportunities**
-- 🌱 Currently sharpening **DSA in Java** + exploring **System Design**
-- 🛠 I build end-to-end — backend APIs, frontend UI, and full deployment pipelines
-- ⚡ Fun fact: When I start building, the world disappears — I don't stop until it works.
+- B.Tech CSE (AIML) '27 @ **NIET**
+- Built & deployed **[NexHire](https://nexhire.me)** — a production-ready full-stack job portal (live!)
+- Actively looking for **SDE Internship opportunities**
+- Currently sharpening **DSA in Java** + exploring **System Design**
+- I build end-to-end — backend APIs, frontend UI, and full deployment pipelines
+- Fun fact: When I start building, the world disappears — I don't stop until it works.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 
 <div align="center">
@@ -70,9 +70,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔵 [NexHire](https://nexhire.me) ⭐ LIVE PROJECT
+### [NexHire](https://nexhire.me) ⭐ LIVE PROJECT
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -81,17 +81,17 @@
 **Production-ready full-stack job portal** with role-based access for Recruiters & Job Seekers.
 
 ✨ **Key Features:**
-- 🔐 JWT Authentication + Spring Security with role-based access control
-- 📧 Email OTP verification & forgot password flow via Brevo API
-- 📁 Resume/file uploads via Cloudinary
-- 🛡 Async email processing with `@Async` to prevent timeouts
-- 🌐 Custom domain (nexhire.me) — Render backend + Netlify frontend
+- JWT Authentication + Spring Security with role-based access control
+- Email OTP verification & forgot password flow via Brevo API
+- Resume/file uploads via Cloudinary
+- Async email processing with `@Async` to prevent timeouts
+- Custom domain (nexhire.me) — Render backend + Netlify frontend
 
 🔗 [Live Demo](https://nexhire.me) | [Source Code](https://github.com/r0hitgit/NexHire)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -109,24 +109,24 @@
 
 ---
 
-## 📚 Data Structures & Algorithms
+##  Data Structures & Algorithms
 
 <img align="right" alt="DSA" width="280" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>💡 Solving DSA problems daily in **Java**
-- 🎯 **Focus Areas:**
+-  **Focus Areas:**
   - Arrays & Strings
   - Recursion & Backtracking
   - Trees & Graphs
   - Dynamic Programming
   - Sorting & Searching
-- 📝 Practicing on **LeetCode** & **GeeksforGeeks**
-- 🧠 Goal: **300+ problems** before internship season
-- 🏆 Building **strong problem-solving foundation**
+-  Practicing on **LeetCode** & **GeeksforGeeks**
+-  Goal: **300+ problems** before internship season
+-  Building **strong problem-solving foundation**
 
 <br clear="right"/>
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
