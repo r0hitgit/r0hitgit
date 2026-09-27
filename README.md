@@ -80,7 +80,7 @@
 
 **Production-ready full-stack job portal** with role-based access for Recruiters & Job Seekers.
 
-✨ **Key Features:**
+ **Key Features:**
 - JWT Authentication + Spring Security with role-based access control
 - Email OTP verification & forgot password flow via Brevo API
 - Resume/file uploads via Cloudinary
