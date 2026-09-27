@@ -72,7 +72,7 @@
 
 ## Featured Projects
 
-### [NexHire](https://nexhire.me) ⭐ LIVE PROJECT
+### [NexHire](https://nexhire.me)  LIVE PROJECT
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
