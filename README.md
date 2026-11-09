@@ -110,7 +110,7 @@ Role-based platform for candidates, recruiters and admins with JWT auth, email O
 
 `Spring Boot` `React` `MySQL` `Docker` `JWT`
 
-[Live Site](https://nexhire.me)
+[Live Site](https://nexhire.me) | [Repo](https://github.com/r0hitgit/NexHire)
 
 </td>
 <td width="33%" valign="top">
@@ -128,15 +128,13 @@ Indexes 1,800+ Jan Aushadhi formulations and 10,000+ kendras, with a bilingual (
 <td width="33%" valign="top">
 
 ### Developer Portfolio
-**Personal site and project showcase**
+**Terminal-themed personal site with an admin CMS**
 
-My home on the web: projects, skills, resume and ways to reach me.
+Spring Boot backend and React frontend with a terminal-style UI. Content is managed through a JWT-protected admin panel instead of being hardcoded.
 
-`React` `Vite` `Vercel`
+`Spring Boot` `React` `JWT` `Vercel`
 
-[Live Site](https://r0hithiside.vercel.app)
-
-<!-- TODO: confirm the portfolio's actual stack and edit the tags above. -->
+[Live Site](https://r0hithiside.vercel.app) | [Repo](https://github.com/r0hitgit/portFolio)
 
 </td>
 </tr>
