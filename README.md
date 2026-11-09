@@ -220,7 +220,7 @@ flowchart LR
 - **NCET Plus SDE (Java) Certification**: Grade O (Outstanding), 88.44%, August 2026
 - **AI Hackathon at AURIX 2026** (IILM University): Software Track, qualified for Round 2 and ranked 2nd among the Top 15 teams
 - **Dataverse Hackathon**: reached the pre-final round at NSUT, Delhi, 2024
-- **120+ DSA problems** solved on LeetCode
+- **150+ DSA problems** solved on LeetCode
 
 ---
 
