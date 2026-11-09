@@ -226,17 +226,32 @@ flowchart LR
 
 ## GitHub Stats
 
-<!-- github-readme-stats is hosted on a free public instance that is
-     sometimes rate limited. If a card shows an error, refresh later or
-     self-host it. theme=radical matches the purple/pink palette.
-     hide_border=true removes the card outline for a cleaner look. -->
+<!-- FIX NOTES
+     The old github-readme-stats cards came from the shared public
+     instance (github-readme-stats.vercel.app), which is often over its
+     GitHub API limit and then returns a broken image. They are removed.
+
+     What replaced them, and why each is more dependable:
+     1. shields.io badges: shields caches results, so they rarely break.
+     2. streak-stats (demolab): this one was already rendering for you.
+     3. ghchart.rshah.org: a plain SVG of your contribution graph, with
+        the hex colour in the URL path set to your purple. -->
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=r0hitgit&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0hitgit&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
+
+![Last Commit](https://img.shields.io/github/last-commit/r0hitgit/NexHire?label=LAST%20COMMIT&color=8B5CF6&style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/r0hitgit?label=FOLLOWERS&color=EC4899&style=for-the-badge&logo=github)
+![Commits NexHire](https://img.shields.io/github/commit-activity/t/r0hitgit/NexHire?label=NEXHIRE%20COMMITS&color=A78BFA&style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=r0hitgit&theme=radical&hide_border=true" alt="GitHub streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/8B5CF6/r0hitgit" alt="Contribution graph" width="90%"/>
 </div>
 
 ---
